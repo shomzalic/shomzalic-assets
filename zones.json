@@ -1416,7 +1416,7 @@
     "id": 179,
     "name": "Soundboard",
     "cover": "{COVER_URL}/179.png",
-    "url": "{HTML_URL}/179.html",
+    "url": "{HTML_URL}/179-a.html",
     "author": "genizy",
     "authorLink": "https://github.com/genizy/soundboard/",
     "featured": true,
@@ -5039,8 +5039,8 @@
     "id": 590,
     "name": "Sonic Mania",
     "cover": "{COVER_URL}/590.png",
-    "url": "{HTML_URL}/590.html",
-    "author": "SEGA",
+    "url": "{HTML_URL}/590-f.html",
+    "author": "SEGA, crunch arcade",
     "authorLink": "https://sega.com",
     "special": [
       "port"
@@ -6545,8 +6545,8 @@
     "id": 738,
     "name": "Dumb Ways to Die",
     "cover": "{COVER_URL}/738.png",
-    "url": "{HTML_URL}/738.html",
-    "author": "PlaySide Studios Ltd",
+    "url": "{HTML_URL}/738-u.html",
+    "author": "PlaySide Studios Ltd, Metro Trains",
     "authorLink": "https://store.steampowered.com/app/3079280/Saihate_Station/"
   },
   {
@@ -6604,7 +6604,7 @@
     "id": 744,
     "name": "Escape Road City 2",
     "cover": "{COVER_URL}/744.png",
-    "url": "{HTML_URL}/744.html",
+    "url": "{HTML_URL}/744-a.html",
     "author": "AZ Games",
     "authorLink": "https://azgames.io/"
   },
@@ -6673,6 +6673,36 @@
     "url": "{HTML_URL}/751.html",
     "author": "Zakaria_ALZ",
     "authorLink": "https://zakaria-alz.itch.io/jeffrey-epsteins-basics-in-education-and-kidnapping",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 752,
+    "name": "Bad Piggies",
+    "cover": "{COVER_URL}/752.png",
+    "url": "{HTML_URL}/752.html",
+    "author": "Rovio Entertainment, EDURocks",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.rovio.BadPiggies&hl=en_US",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 753,
+    "name": "Breaklock",
+    "cover": "{COVER_URL}/753.png",
+    "url": "{HTML_URL}/753.html",
+    "author": "Print More India",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.pmi.breaklock"
+  },
+  {
+    "id": 754,
+    "name": "Minecraft Pocket Edition",
+    "cover": "{COVER_URL}/754.png",
+    "url": "{HTML_URL}/754.html",
+    "author": "Mojang",
+    "authorLink": "https://mojang.com",
     "special": [
       "port"
     ]
