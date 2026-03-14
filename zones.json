@@ -695,7 +695,7 @@
     "id": 82,
     "name": "Cookie Clicker",
     "cover": "{COVER_URL}/82.png",
-    "url": "{HTML_URL}/82-aa.html",
+    "url": "{HTML_URL}/82-u.html",
     "author": "Orteil",
     "authorLink": "https://orteil.dashnet.org"
   },
@@ -6706,5 +6706,13 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 755,
+    "name": "Brawl Simulator 3D",
+    "cover": "{COVER_URL}/755.png",
+    "url": "{HTML_URL}/755.html",
+    "author": "Fire Games, Supercell",
+    "authorLink": "https://yandex.com/games/developer/77286"
   }
 ]
